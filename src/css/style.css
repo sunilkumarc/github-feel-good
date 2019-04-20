@@ -1,0 +1,48 @@
+body {
+    width: 200px;
+    height: 120px;
+    background-color: #EEEFF0;
+}
+
+.disableContent {
+    pointer-events: none;
+    opacity: 0.4;
+}
+
+#enable-disable {
+    padding: 5px 10px;
+    font-size: 1.1em;
+    border-radius: 5px;
+    border: 0px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #00e92d;
+}
+
+#enable-disable:hover {
+    cursor: pointer;
+}
+
+.container {
+    margin: 0.5em 0.5em;
+    font-family: 'Lato', sans-serif;
+}
+
+.container h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.4em;
+}
+
+#feel-options {
+    margin-top: 0.8em;
+    font-size: 1.2em;
+}
+
+#feel-options span {
+    margin-left: 0.4em;
+}
+
+#feel-options label:hover, #feel-options span:hover, #feel-options input:hover {
+    cursor: pointer;
+}

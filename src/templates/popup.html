@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/src/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div>
+            <h2>Github Feel Good</h2>
+        </div>
+        <div id="toggle">
+            <button id="enable-disable"></button>
+        </div>
+        <div id="feel-options">
+            <label>
+                <input id="feel_good" type="radio" name="feel-type" value="1" checked />
+                <span>Feel Good</span>
+            </label><br/>
+            <label>
+                <input id="feel_better" type="radio" name="feel-type" value="2" />
+                <span>Feel Better</span>
+            </label><br/>
+            <label>
+                <input id="feel_rockstar" type="radio" name="feel-type" value="3">
+                <span>Feel like a Rockstar!</span>
+            </label><br/>
+        </div>
+    </div>
+    <script src="/src/scripts/content_script.js"></script>
+    <script src="/src/scripts/my_script.js"></script>
+</body>
+</html>
