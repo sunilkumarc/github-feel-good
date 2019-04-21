@@ -1,6 +1,6 @@
 # Github Feel Good
 
-Github Feel Good is a chrome extension which helps you feel good about your github profile. The extension increase the count of stars and forks of all of the pinned repositories, followers, total repositories and enhances the contribution graph based on the mode selected. 
+[Github Feel Good](https://chrome.google.com/webstore/detail/github-feel-good/boklfjlipjpjjfabepnnnnggcogponmf?hl=en-US) is a chrome extension which helps you feel good about your github profile. The extension increase the count of stars and forks of all of the pinned repositories, followers, total repositories and enhances the contribution graph based on the mode selected. 
 
 There are three available modes:
 * Feel Good - Increases the repo count in the range of 100 - 1000. 
