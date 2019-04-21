@@ -10,7 +10,7 @@ There are three available modes:
 Forks count and followers count increase in the range of 30 - 70% of the increased stars count.
 
 ## How to use
-* Install the chrome extension and enable it by clicking on `Disabled` button.
+* Install the [chrome extension](https://chrome.google.com/webstore/detail/github-feel-good/boklfjlipjpjjfabepnnnnggcogponmf?hl=en-US) and enable it by clicking on `Disabled` button.
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/x626ckgewqkx91oghq35.png)
 
